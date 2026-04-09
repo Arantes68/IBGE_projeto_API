@@ -49,15 +49,15 @@ https://servicodados.ibge.gov.br/api/v1/localidades/estados
 
 ### Etapa 2 — Conversão para JSON
 
-![Bronze 2](IBGE_projeto_API/imagens_bronze/Bronze_2.png)
+![teste](imagens_bronze/Bronze_2.png)
 
 ### Etapa 3 — DataFrame
 
-![Bronze 3](IBGE_projeto_API/imagens_bronze/Bronze_3.png)
+![teste](imagens_bronze/Bronze_3.png)
 
 ### Etapa 4 — Resultado
 
-![Bronze 4](IBGE_projeto_API/imagens_bronze/Bronze_4.png)
+![teste](imagens_bronze/Bronze_4.png)
 
 
 ### 🥈 Silver — Transformação
