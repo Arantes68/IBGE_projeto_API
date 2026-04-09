@@ -45,7 +45,7 @@ https://servicodados.ibge.gov.br/api/v1/localidades/estados
 
 ### Etapa 1 — Requisição na API
 
-imagens_bronze/Bronze_1.png
+![teste](imagens_bronze/Bronze_1.png)
 
 ### Etapa 2 — Conversão para JSON
 
