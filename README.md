@@ -40,15 +40,66 @@ https://servicodados.ibge.gov.br/api/v1/localidades/estados
 - Conversão de JSON para DataFrame
 - Armazenamento dos dados brutos
 
+
+## Segue o passo a passo em imagens: 
+
+### Etapa 1 — Requisição na API
+
+![Bronze 1](IBGE_projeto_API/imagens_bronze/Bronze_1.png)
+
+### Etapa 2 — Conversão para JSON
+
+![Bronze 2](IBGE_projeto_API/imagens_bronze/Bronze_2.png)
+
+### Etapa 3 — DataFrame
+
+![Bronze 3](IBGE_projeto_API/imagens_bronze/Bronze_3.png)
+
+### Etapa 4 — Resultado
+
+![Bronze 4](IBGE_projeto_API/imagens_bronze/Bronze_4.png)
+
+
 ### 🥈 Silver — Transformação
 - Tratamento de dados aninhados (JSON)
 - Normalização da estrutura
 - Criação de colunas analíticas
 
+
+## Segue o passo a passo em imagens:
+
+### Etapa 1 — Leitura da camada Bronze
+
+![Silver 1](IBGE_projeto_API/imagens_silver/Silver_1.png)
+
+### Etapa 2 — Tratamento dos dados (flatten)
+
+![Silver 2](IBGE_projeto_API/imagens_silver/Silver_2.png)
+
+### Etapa 3 — Resultado final da transformação
+
+![Silver 3](IBGE_projeto_API/imagens_silver/Silver_3.png)
+
+
 ### 🥇 Gold — Análise
 - Agregações
 - Consultas analíticas
 - Preparação para visualização
+
+
+## Segue o passo a passo em imagens:
+
+### Etapa 1 — Leitura da camada Silver
+
+![Gold 1](IBGE_projeto_API/imagens_gold/Gold_1.png)
+
+### Etapa 2 — Criação de agregações
+
+![Gold 2](IBGE_projeto_API/imagens_gold/Gold_2.png)
+
+### Etapa 3 — Resultado final para análise
+
+![Gold 3](IBGE_projeto_API/imagens_gold/Gold_3.png)
 
 ## 📁 Estrutura do projeto
 
